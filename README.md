@@ -14,4 +14,4 @@ NOTE: The algorithm should always use the longest possible overlap.
 
 "abaabaab" + "aabaabab" would be "abaabaabab" and not "abaabaabaabab"
 
-# To test run `node Merge-overlapping-strings.js`
+### To test run `node Merge-overlapping-strings.js`
